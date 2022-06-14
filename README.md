@@ -8,4 +8,4 @@ pip install d2l
 ```
 
 ## Menu
-- [1.前言](./markdowns/前言.md)
+- [1.前言](https://zh-v2.d2l.ai/chapter_introduction/index.html)
