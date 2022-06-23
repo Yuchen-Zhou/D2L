@@ -10,3 +10,4 @@ pip install d2l
 ## Menu
 - [1.前言](https://zh-v2.d2l.ai/chapter_introduction/index.html)
 - [2.预备知识](./jupyters/chapter2)
+- [3.线性神经网络](./jupyters/chapter3/)
