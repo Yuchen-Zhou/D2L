@@ -13,3 +13,4 @@ pip install d2l
 - [3.线性神经网络](./jupyters/chapter3/)
 - [4.多层感知机](./jupyters/chapter4/)
 - [5.深度学习计算](./jupyters/chapter5)
+- [6.卷积神经网络](./jupyters/chapter6)
