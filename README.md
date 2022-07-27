@@ -14,3 +14,4 @@ pip install d2l
 - [4.多层感知机](./jupyters/chapter4/)
 - [5.深度学习计算](./jupyters/chapter5)
 - [6.卷积神经网络](./jupyters/chapter6)
+- [7.现代卷积网络](./jupyters/chapter7/)
