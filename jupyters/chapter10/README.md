@@ -9,3 +9,4 @@
 最后，我们将描述仅仅基于注意力机制的transformer架构，该架构中使用了多头注意力(multi-head attention)和自注意力(self-attention)。自2017年横空出世，transformer一直都普遍存在于现代深度学习应用中，例如语言、视觉、语音和强化学习领域。
 
 ### [10.1注意力提示](./10_1.ipynb)
+### [10.2注意力汇聚:Nadaraya-Waston核回归](./10_2.ipynb)
