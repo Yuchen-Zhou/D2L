@@ -18,3 +18,4 @@ pip install d2l
 - [8.循环神经网络](./jupyters/chapter8/)
 - [9.现代循环神经网络](./jupyters/chapter9/)
 - [10.注意力机制](./jupyters/chapter10/)
+- [11.优化算法](./jupyters/chapter11/)
